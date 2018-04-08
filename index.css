@@ -1,0 +1,64 @@
+html {
+    height: 100%; 
+  }
+body {
+     height: 100%;
+    
+}
+
+div {
+    height:100%;
+    background-image: url(nest.jpg);
+    background-repeat: no-repeat;
+    background-size: 190%; 
+}
+  header {
+      padding:50px;
+      border: 20px;
+      margin-left: 30px;
+      text-align: center;
+      font: bold;
+      font-size:30px;
+      display: block;
+      width: 800px;
+     text-shadow: 4px 2px #EAFFFC;
+      
+}  
+
+  nav {
+      line-height:20px;
+      background-color;
+      width:2000px;
+      display: inline-block;
+      vertical-align: bottom;
+      font-weight: bold; 
+      text-shadow: 1px 1px #33F9FF;
+      text-align: inherit;
+  }
+  nav ul {
+      list-style-type: none;
+  }
+  a {
+      color:;
+  }
+  section {
+      width: 516px;
+      display: inline-block;
+  }
+  aside {
+    width: 125px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:;
+    font-size: ;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      text-align:;
+      padding:5px;
+      display: block;
+  }
